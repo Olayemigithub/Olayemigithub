@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olayemigithub
 - 👀 I’m interested in full stack programming 
 - 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on with interesting coaches
+- 💞️ I’m looking to collaborate with interesting coaches
 - 📫 How to reach me Olayemigithub/Readme
 
 <!---
