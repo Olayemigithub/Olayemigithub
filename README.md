@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olayemigithub
-- 👀 I’m interested in full stack programming 
+- 👀 I’m interested in fullstack devlopment
 - 🌱 I’m currently learning web development @ Instinct Hub
 - 💞️ I’m looking to collaborate with interesting coaches
 - 📫 How to reach me Olayemigithub/Readme
