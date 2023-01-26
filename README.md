@@ -1,5 +1,5 @@
 -  @Olayemigithub
--  I’m looking to collaborate with interesting coaches
+-  I’m looking to collaborate with interesting projects
 -  How to reach me Olayemigithub/Readme
 <--
 Olayemigithub/Olayemigithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
